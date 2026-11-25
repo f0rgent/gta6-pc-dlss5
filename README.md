@@ -26,6 +26,12 @@ You get a sharper, more realistic picture, 60 FPS (120 if your GPU keeps up), an
 
 This repo is our setup guide, tested settings and clips. The app itself belongs to its author: [pcdofafa/dlss5-for-all](https://github.com/pcdofafa/dlss5-for-all).
 
+## Full video
+
+[![Watch the full video](media/video-cover.jpg)](media/gta6-pc-full-video.mp4)
+
+**[▶ Watch the full 55-second video](media/gta6-pc-full-video.mp4)**: gameplay, side-by-side, wiring, app and settings.
+
 ## Results
 
 | Left: DLSS 5 · Right: PS5 original | Driving at 60 FPS |
@@ -49,6 +55,10 @@ Full-quality clips: [dlss5-vs-original.mp4](media/dlss5-vs-original.mp4) · [dri
 | App | [DLSS5 For All](https://github.com/pcdofafa/dlss5-for-all) (free) |
 
 ## Setup (about 15 minutes)
+
+| Step 1 · PS5 HDMI | Step 2 · Elgato 4K S | Step 3 · The app |
+|---|---|---|
+| ![ps5](media/step1-ps5-hdmi.jpg) | ![elgato](media/step2-elgato.jpg) | ![app](media/step3-app.jpg) |
 
 **1. Turn off HDCP on the PS5**
 Settings → System → HDMI → **Enable HDCP: Off**. With it on, the capture card shows a black screen.
