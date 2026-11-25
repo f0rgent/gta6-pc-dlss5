@@ -30,7 +30,7 @@ This repo is our setup guide, tested settings and clips. The app itself belongs 
 
 [![Watch the full video](media/video-cover.jpg)](media/gta6-pc-full-video.mp4)
 
-**[▶ Watch the full 55-second video](media/gta6-pc-full-video.mp4)**: gameplay, side-by-side, wiring, app and settings.
+**[▶ Watch the full 50-second video](media/gta6-pc-full-video.mp4)**: gameplay, side-by-side, wiring, app and settings.
 
 ## Results
 
