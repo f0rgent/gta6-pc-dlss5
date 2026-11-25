@@ -12,7 +12,11 @@ No Claude yet? [Get Claude here](https://f0rgent.github.io/claude).
 
 `Capture card` · `Neural Rendering` · `Frame smoothing` · `Live tuning` · `Side-by-side comparison`
 
-Windows 11 · NVIDIA RTX · Elgato 4K S · Free app: [DLSS5 For All](https://github.com/pcdofafa/dlss5-for-all)
+Windows 11 · NVIDIA RTX · Elgato 4K S
+
+### [⬇ Download DLSS 5 For All (free, official release)](https://github.com/pcdofafa/dlss5-for-all/releases/latest)
+
+The app that does the neural rendering · by PC do Fafa · [source code](https://github.com/pcdofafa/dlss5-for-all) · [site](https://pcdofafa.com.br/dlss)
 
 </div>
 
@@ -43,6 +47,18 @@ This repo is our setup guide, tested settings and clips. The app itself belongs 
 | ![settings](media/neural-settings.gif) | ![character](media/character-detail.gif) |
 
 Full-quality clips: [dlss5-vs-original.mp4](media/dlss5-vs-original.mp4) · [drive-60fps.mp4](media/drive-60fps.mp4) · [neural-settings.mp4](media/neural-settings.mp4) · [character-detail.mp4](media/character-detail.mp4)
+
+## The app: DLSS 5 For All
+
+**DLSS 5 For All** is a free, open-source Windows app (C++, Direct3D 11) by PC do Fafa. It opens any video source (capture card, webcam, a window or a whole monitor) and runs it through DLSS 5 Neural Rendering in real time. Nothing is injected into the game, so it works with a console feed.
+
+What it gives you:
+- **Neural Rendering** with 1-10 passes, models A/B/C, intensity, structure, skin & faces, local/global tone
+- **Smoothness** up to your monitor's refresh, plus frame skipping to save GPU
+- **Comparison mode**: left half DLSS 5, right half original, same frame
+- **Live panel** (`End`), instant on/off (`F6`), HDR capture, works on RTX 20-50 (AMD experimental)
+
+Get it only from the official links above. We don't mirror the app: its license allows unmodified copies with credit only, and the official release is always the newest and safest version.
 
 ## What you need
 
